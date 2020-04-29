@@ -9,3 +9,21 @@ Integration Testing
 What is Integration Testing?
 Integration Testing is conducted by the developer
 It is type of blackbox & whitebox testing
+ 
+System testing ​
+
+What is system Testing?​
+
+System Testing is conducted by ______________​
+
+It is type of (blackbox/whitebox testing)​
+
+Acceptance testing​
+
+What is acceptance Testing?​
+
+Acceptance Testing is conducted by ______________​
+
+It is type of (blackbox/whitebox testing)​
+
+​
