@@ -1,0 +1,11 @@
+Unit Testing
+What is unit Testing?
+Unit Testing is conducted by the developer using development tools in his IDE.
+(Integrated Development Environment).
+It is type of whitebox testing
+
+
+Integration Testing
+What is Integration Testing?
+Integration Testing is conducted by the developer
+It is type of blackbox & whitebox testing
